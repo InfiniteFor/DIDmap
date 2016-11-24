@@ -78,7 +78,7 @@ while (count > -1):
                 break
 
             file_size_dl += len(d_buffer)
-            f.write(buffer)
+            f.write(d_buffer)
             status = r"%10d  [%3.2f%%]" % (file_size_dl, file_size_dl * 100. / file_size)
             status = status + chr(8)*(len(status)+1)
             print status,
