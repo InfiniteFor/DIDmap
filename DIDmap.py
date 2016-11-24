@@ -7,7 +7,7 @@
 # Date:    07-08-2016
 #
 # Version: 0.2
-# Date:    20-09-2016
+# Date:    24-11-2016
 #
 # This tool downloads all files from a webpage which uses the aps.net file download (".asp?id="). 
 ################################################################################################
